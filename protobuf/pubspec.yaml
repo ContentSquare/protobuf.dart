@@ -1,4 +1,4 @@
-name: protobuf
+name: protobuf_csq
 version: 4.1.0
 description: >-
   Runtime library for protocol buffers support. Use with package:protoc_plugin
