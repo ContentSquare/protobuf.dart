@@ -3,6 +3,8 @@
 helmfile.yaml.gotmpl @ContentSquare/devx
 
 * @ContentSquare/mobile_xpf-core
+* @ContentSquare/mobile-flutter
+
 
 # GitHub Copilot agents folder ownership
 .github/agents/* @ContentSquare/mobile_xpf-core
