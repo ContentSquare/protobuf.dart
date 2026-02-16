@@ -1,0 +1,20 @@
+.children
+.dart_tool/
+.idea
+.packages
+.pub
+build/
+pubspec.lock
+doc/
+
+# `dart compile exe` outputs
+*.exe
+
+# `dart compile js` outputs
+*.js
+*.js.deps
+*.js.map
+
+# `dart compile wasm` outputs
+*.wasm
+*.mjs
