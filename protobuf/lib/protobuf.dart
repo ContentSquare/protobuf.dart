@@ -19,7 +19,7 @@ import 'dart:convert'
 import 'dart:math' as math;
 import 'dart:typed_data' show ByteData, Endian, Uint8List;
 
-import 'package:fixnum/fixnum.dart' show Int64;
+import 'package:fixnum_csq/fixnum.dart' show Int64;
 import 'package:meta/meta.dart' show UseResult;
 
 import 'src/protobuf/json_parsing_context.dart';

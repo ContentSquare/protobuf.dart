@@ -63,7 +63,7 @@ class ExtensionRegistry {
   /// ```
   /// `main.dart`
   /// ```
-  /// import 'package:protobuf/protobuf.dart';
+  /// import 'package:protobuf_csq/protobuf.dart';
   /// import 'package:test/test.dart';
   /// import 'src/generated/sample.pb.dart';
   ///

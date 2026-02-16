@@ -8,7 +8,7 @@
 
 import 'dart:convert';
 
-import 'package:fixnum/fixnum.dart' show Int64;
+import 'package:fixnum_csq/fixnum.dart' show Int64;
 import 'package:test/test.dart';
 
 import 'mock_util.dart' show T, mockEnumValues;

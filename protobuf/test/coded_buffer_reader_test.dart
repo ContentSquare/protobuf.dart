@@ -4,7 +4,7 @@
 
 import 'dart:typed_data';
 
-import 'package:protobuf/protobuf.dart';
+import 'package:protobuf_csq/protobuf.dart';
 import 'package:test/test.dart';
 
 import 'test_util.dart';
