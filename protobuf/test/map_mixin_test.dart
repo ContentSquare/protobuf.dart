@@ -7,8 +7,8 @@
 
 import 'dart:collection' show MapMixin;
 
-import 'package:protobuf/protobuf.dart';
-import 'package:protobuf/src/protobuf/mixins/map_mixin.dart';
+import 'package:protobuf_csq/protobuf.dart';
+import 'package:protobuf_csq/src/protobuf/mixins/map_mixin.dart';
 import 'package:test/test.dart'
     show expect, isA, same, test, throwsArgumentError;
 

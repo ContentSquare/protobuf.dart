@@ -4,7 +4,7 @@
 
 import 'dart:convert';
 
-import 'package:fixnum/fixnum.dart';
+import 'package:fixnum_csq/fixnum.dart';
 
 import '../../../protobuf.dart';
 import '../json_parsing_context.dart';
