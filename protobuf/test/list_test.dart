@@ -2,8 +2,8 @@
 // for details. All rights reserved. Use of this source code is governed by a
 // BSD-style license that can be found in the LICENSE file.
 
-import 'package:fixnum_csq/fixnum.dart';
-import 'package:protobuf_csq/protobuf.dart';
+import 'package:fixnum_csq/fixnum_csq.dart';
+import 'package:protobuf_csq/protobuf_csq.dart';
 import 'package:test/test.dart';
 
 // [ArgumentError] in production mode, [TypeError] in checked.

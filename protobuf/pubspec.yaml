@@ -1,20 +1,16 @@
 name: protobuf_csq
-version: 4.1.0
+version: 1.0.0
 description: >-
   Runtime library for protocol buffers support. Use with package:protoc_plugin
   to generate Dart code for your '.proto' files.
-repository: https://github.com/google/protobuf.dart/tree/master/protobuf
-publish_to: none
+repository: https://github.com/ContentSquare/protobuf.dart
 
 environment:
-  sdk: '>=3.3.0 <4.0.0'
+  sdk: ">=3.3.0 <4.0.0"
 
 dependencies:
   collection: ^1.15.0
-  fixnum_csq: 
-    git:
-      url: https://github.com/ContentSquare/fixnum.git
-      ref: 1.2.0
+  fixnum_csq: ^1.0.0
   meta: ^1.7.0
 
 dev_dependencies:

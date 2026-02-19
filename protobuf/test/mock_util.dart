@@ -3,8 +3,8 @@
 // BSD-style license that can be found in the LICENSE file.
 
 import 'package:collection/collection.dart';
-import 'package:fixnum_csq/fixnum.dart' show Int64;
-import 'package:protobuf_csq/protobuf.dart'
+import 'package:fixnum_csq/fixnum_csq.dart' show Int64;
+import 'package:protobuf_csq/protobuf_csq.dart'
     show
         BuilderInfo,
         CreateBuilderFunc,
