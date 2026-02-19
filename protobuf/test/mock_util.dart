@@ -4,7 +4,7 @@
 
 import 'package:collection/collection.dart';
 import 'package:fixnum_csq/fixnum.dart' show Int64;
-import 'package:protobuf_csq/protobuf.dart'
+import 'package:protobuf_csq/protobuf_csq.dart'
     show
         BuilderInfo,
         CreateBuilderFunc,

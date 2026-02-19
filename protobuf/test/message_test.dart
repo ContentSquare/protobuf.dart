@@ -5,7 +5,7 @@
 // Tests for GeneratedMessage methods.
 
 import 'package:matcher/src/interfaces.dart';
-import 'package:protobuf_csq/protobuf.dart';
+import 'package:protobuf_csq/protobuf_csq.dart';
 import 'package:test/test.dart' show expect, isA, test, throwsA;
 
 import 'mock_util.dart' show MockMessage, mockInfo;
