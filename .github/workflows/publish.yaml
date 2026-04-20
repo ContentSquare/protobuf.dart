@@ -11,7 +11,7 @@ on:
 jobs:
   publish:
     if: ${{ github.repository_owner == 'google' }}
-    uses: dart-lang/ecosystem/.github/workflows/publish.yaml@main
+    uses: ContentSquare/dart-lang-ecosystem-.github-workflows-publish.yaml@approved-main
     permissions:
       id-token: write
       pull-requests: write
