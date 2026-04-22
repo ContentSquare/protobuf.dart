@@ -12,6 +12,6 @@ on:
 
 jobs:
   upload:
-    uses: dart-lang/ecosystem/.github/workflows/post_summaries.yaml@main
+    uses: ContentSquare/dart-lang-ecosystem/.github/workflows/post_summaries.yaml@approved-main
     permissions:
       pull-requests: write
