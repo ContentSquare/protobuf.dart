@@ -1,10 +1,9 @@
 # CODEOWNERS documentation : https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-code-owners
+
+* @ContentSquare/sdk-cross-platform-core @ContentSquare/flutter
+
 # helmfile.yaml.gotmpl should be the same on every repo and is centrally managed by PF team
 helmfile.yaml.gotmpl @ContentSquare/devx
 
-* @ContentSquare/mobile_xpf-core
-* @ContentSquare/mobile-flutter
-
-
 # GitHub Copilot agents folder ownership
-.github/agents/* @ContentSquare/mobile_xpf-core
+.github/agents/* @ContentSquare/sdk-cross-platform-core @ContentSquare/flutter
